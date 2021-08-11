@@ -1,0 +1,7 @@
+dato\UsersDaoImpl.class
+entidad\Users.class
+dato\UserDao.class
+service\ServiceDao.class
+web\UserBean.class
+web\ConfiguracionBean.class
+service\ServiceDaoImpl.class
